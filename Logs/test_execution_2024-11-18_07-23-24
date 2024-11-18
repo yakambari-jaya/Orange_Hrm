@@ -1,0 +1,23 @@
+2024-11-18 07:23:29,227 - test_logger - INFO - logging in using Admin,admin123
+2024-11-18 07:23:29,228 - test_logger - INFO - Entering username
+2024-11-18 07:23:29,363 - test_logger - INFO - Entering password
+2024-11-18 07:23:29,458 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:23:34,536 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:23:36,618 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:23:43,481 - test_logger - INFO - Logout Successfully
+2024-11-18 07:23:43,481 - test_logger - INFO - *******   login successful for valid credentials ********
+2024-11-18 07:23:48,482 - test_logger - INFO - logging in using admin123,password123
+2024-11-18 07:23:48,483 - test_logger - INFO - Entering username
+2024-11-18 07:23:48,571 - test_logger - INFO - Entering password
+2024-11-18 07:23:48,661 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:23:53,756 - test_logger - INFO - *******   Error message validated for in valid credentials ********
+2024-11-18 07:23:58,757 - test_logger - INFO - logging in using admin123,Admin
+2024-11-18 07:23:58,758 - test_logger - INFO - Entering username
+2024-11-18 07:23:58,817 - test_logger - INFO - Entering password
+2024-11-18 07:23:58,885 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:24:05,249 - test_logger - INFO - *******   Error message validated for in valid credentials ********
+2024-11-18 07:24:10,249 - test_logger - INFO - logging in using test_username,test_password
+2024-11-18 07:24:10,250 - test_logger - INFO - Entering username
+2024-11-18 07:24:10,318 - test_logger - INFO - Entering password
+2024-11-18 07:24:10,395 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:24:16,729 - test_logger - INFO - *******   Error message validated for in valid credentials ********

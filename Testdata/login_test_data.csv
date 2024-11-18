@@ -1,0 +1,5 @@
+username,password,expected_message
+Admin,admin123,success
+admin123,password123,Invalid credentials
+admin123,Admin,Invalid credentials
+test_username,test_password,Invalid credentials

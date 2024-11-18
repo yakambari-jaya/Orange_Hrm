@@ -1,0 +1,581 @@
+2024-11-18 07:07:44,552 - test_logger - INFO - logging in using Admin,admin123
+2024-11-18 07:07:44,553 - test_logger - INFO - Entering username
+2024-11-18 07:07:44,727 - test_logger - INFO - Entering password
+2024-11-18 07:07:44,802 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:07:49,886 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:07:51,960 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:08:06,966 - test_logger - ERROR - Failed Clicking on Logout due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:08:06,967 - test_logger - INFO - *******   login successful for valid credentials ********
+2024-11-18 07:08:11,968 - test_logger - INFO - logging in using admin123,password123
+2024-11-18 07:08:11,969 - test_logger - INFO - Entering username
+2024-11-18 07:08:22,366 - test_logger - ERROR - Failed to Enter username due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:08:22,367 - test_logger - INFO - Entering password
+2024-11-18 07:08:32,686 - test_logger - ERROR - Failed to Enter password due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:08:32,687 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:08:43,067 - test_logger - ERROR - Failed Clicking on Login button due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:08:58,498 - test_logger - ERROR - error during login: Excpeted: Invalid credentials but found:Error message not found: Message: 
+  Stacktrace:
+  	GetHandleVerifier [0x007DEBD3+24307]
+  	(No symbol) [0x00768D74]
+  	(No symbol) [0x0064C323]
+  	(No symbol) [0x0068DC86]
+  	(No symbol) [0x0068DECB]
+  	(No symbol) [0x006CB9F2]
+  	(No symbol) [0x006AFED4]
+  	(No symbol) [0x006C9579]
+  	(No symbol) [0x006AFC26]
+  	(No symbol) [0x0068219C]
+  	(No symbol) [0x0068311D]
+  	GetHandleVerifier [0x00A88D93+2818227]
+  	GetHandleVerifier [0x00AE542E+3196750]
+  	GetHandleVerifier [0x00ADD9D2+3165426]
+  	GetHandleVerifier [0x0087DA70+675216]
+  	(No symbol) [0x00771B3D]
+  	(No symbol) [0x0076EA18]
+  	(No symbol) [0x0076EBB5]
+  	(No symbol) [0x00761640]
+  	BaseThreadInitThunk [0x76227BA9+25]
+  	RtlInitializeExceptionChain [0x77E1C0CB+107]
+  	RtlClearBits [0x77E1C04F+191]
+  
+assert 'Invalid credentials' in 'Error message not found: Message: \nStacktrace:\n\tGetHandleVerifier [0x007DEBD3+24307]\n\t(No symbol) [0x00768D74]\n\t(No symbol) [0x0064C323]\n\t(No symbol) [0x0068DC86]\n\t(No symbol) [0x0068DECB]\n\t(No symbol) [0x006CB9F2]\n\t(No symbol) [0x006AFED4]\n\t(No symbol) [0x006C9579]\n\t(No symbol) [0x006AFC26]\n\t(No symbol) [0x0068219C]\n\t(No symbol) [0x0068311D]\n\tGetHandleVerifier [0x00A88D93+2818227]\n\tGetHandleVerifier [0x00AE542E+3196750]\n\tGetHandleVerifier [0x00ADD9D2+3165426]\n\tGetHandleVerifier [0x0087DA70+675216]\n\t(No symbol) [0x00771B3D]\n\t(No symbol) [0x0076EA18]\n\t(No symbol) [0x0076EBB5]\n\t(No symbol) [0x00761640]\n\tBaseThreadInitThunk [0x76227BA9+25]\n\tRtlInitializeExceptionChain [0x77E1C0CB+107]\n\tRtlClearBits [0x77E1C04F+191]\n'
+2024-11-18 07:09:18,655 - test_logger - INFO - ----****---- Starting HomePage Title Test ----****----
+2024-11-18 07:09:18,656 - test_logger - INFO - Getting Homepage title
+2024-11-18 07:09:18,668 - test_logger - INFO - ----****---- HomePage Title Test Pass ----****----
+2024-11-18 07:09:18,670 - test_logger - INFO - ----****---- Starting broken link Test ----****----
+2024-11-18 07:09:29,302 - test_logger - INFO - ----****---- Starting Login Test with invalid credentials ----****----
+2024-11-18 07:09:29,302 - test_logger - INFO - Entering username
+2024-11-18 07:09:39,633 - test_logger - ERROR - Failed to Enter username due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:09:39,633 - test_logger - INFO - Entering password
+2024-11-18 07:09:49,901 - test_logger - ERROR - Failed to Enter password due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:09:49,902 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:10:00,172 - test_logger - ERROR - Failed Clicking on Login button due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:00,172 - test_logger - INFO - Getting invalid Credential message present in or not
+2024-11-18 07:10:10,390 - test_logger - ERROR - Failed to get invalid Credential message present in or not due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:10,391 - test_logger - ERROR - ----****----  Invalid Login Test Failed----****----
+2024-11-18 07:10:10,395 - test_logger - INFO - ----****---- Starting Login Test ----****----
+2024-11-18 07:10:10,395 - test_logger - INFO - Entering username
+2024-11-18 07:10:20,636 - test_logger - ERROR - Failed to Enter username due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:20,636 - test_logger - INFO - Entering password
+2024-11-18 07:10:30,921 - test_logger - ERROR - Failed to Enter password due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:30,921 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:10:41,158 - test_logger - ERROR - Failed Clicking on Login button due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:41,165 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:10:43,264 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:10:58,594 - test_logger - ERROR - Failed Clicking on Logout due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:10:58,595 - test_logger - INFO - *******   login successful for valid credentials ********
+2024-11-18 07:10:58,597 - test_logger - INFO - ----****---- Starting Logout Test ----****----
+2024-11-18 07:10:58,597 - test_logger - INFO - Entering username
+2024-11-18 07:11:08,836 - test_logger - ERROR - Failed to Enter username due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:11:08,837 - test_logger - INFO - Entering password
+2024-11-18 07:11:19,107 - test_logger - ERROR - Failed to Enter password due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:11:19,107 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:11:29,393 - test_logger - ERROR - Failed Clicking on Login button due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:11:29,394 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:11:31,460 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:11:46,952 - test_logger - ERROR - Failed Clicking on Logout due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:11:46,952 - test_logger - ERROR - ----****---- Logout Test Failed----****----
+2024-11-18 07:11:46,956 - test_logger - INFO - *** loging in using fixture ***
+2024-11-18 07:11:46,957 - test_logger - INFO - logging in using Admin,admin123
+2024-11-18 07:11:46,957 - test_logger - INFO - Entering username
+2024-11-18 07:11:57,238 - test_logger - ERROR - Failed to Enter username due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:11:57,238 - test_logger - INFO - Entering password
+2024-11-18 07:12:07,526 - test_logger - ERROR - Failed to Enter password due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:12:07,526 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:12:17,818 - test_logger - ERROR - Failed Clicking on Login button due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+
+2024-11-18 07:12:17,826 - test_logger - INFO - login successfully
+2024-11-18 07:12:37,827 - test_logger - INFO -  clicking on PIM
+2024-11-18 07:12:50,408 - test_logger - INFO -  clicking on add employee
+2024-11-18 07:13:01,835 - test_logger - INFO -  entering first name
+2024-11-18 07:13:12,028 - test_logger - INFO -  entering middle name
+2024-11-18 07:13:22,166 - test_logger - INFO -  entering last name
+2024-11-18 07:13:32,303 - test_logger - INFO -  entering employee id
+2024-11-18 07:13:42,447 - test_logger - INFO -  all employee details entered
+2024-11-18 07:13:52,448 - test_logger - INFO -  clicking on save 
+2024-11-18 07:14:12,582 - test_logger - INFO -  fetch the added employee details
+2024-11-18 07:14:45,353 - test_logger - INFO -  clicking on search
+2024-11-18 07:14:45,492 - test_logger - INFO - checking for added Employee details
+2024-11-18 07:14:47,528 - test_logger - INFO - successfully got the added employee details
+2024-11-18 07:14:47,529 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:14:49,641 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:15:04,694 - test_logger - ERROR - Failed Clicking on Logout due to Message: 
+Stacktrace:
+	GetHandleVerifier [0x007DEBD3+24307]
+	(No symbol) [0x00768D74]
+	(No symbol) [0x0064C323]
+	(No symbol) [0x0068DC86]
+	(No symbol) [0x0068DECB]
+	(No symbol) [0x006CB9F2]
+	(No symbol) [0x006AFED4]
+	(No symbol) [0x006C9579]
+	(No symbol) [0x006AFC26]
+	(No symbol) [0x0068219C]
+	(No symbol) [0x0068311D]
+	GetHandleVerifier [0x00A88D93+2818227]
+	GetHandleVerifier [0x00AE542E+3196750]
+	GetHandleVerifier [0x00ADD9D2+3165426]
+	GetHandleVerifier [0x0087DA70+675216]
+	(No symbol) [0x00771B3D]
+	(No symbol) [0x0076EA18]
+	(No symbol) [0x0076EBB5]
+	(No symbol) [0x00761640]
+	BaseThreadInitThunk [0x76227BA9+25]
+	RtlInitializeExceptionChain [0x77E1C0CB+107]
+	RtlClearBits [0x77E1C04F+191]
+

@@ -1,0 +1,71 @@
+2024-11-18 07:34:41,771 - test_logger - INFO - logging in using Admin,admin123
+2024-11-18 07:34:41,772 - test_logger - INFO - Entering username
+2024-11-18 07:34:41,901 - test_logger - INFO - Entering password
+2024-11-18 07:34:41,991 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:34:52,075 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:34:54,137 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:35:15,522 - test_logger - INFO - Logout Successfully
+2024-11-18 07:35:15,522 - test_logger - INFO - *******   login successful for valid credentials ********
+2024-11-18 07:35:20,523 - test_logger - INFO - logging in using admin123,password123
+2024-11-18 07:35:20,524 - test_logger - INFO - Entering username
+2024-11-18 07:35:20,592 - test_logger - INFO - Entering password
+2024-11-18 07:35:20,667 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:35:32,037 - test_logger - INFO - *******   Error message validated for in valid credentials ********
+2024-11-18 07:35:37,038 - test_logger - INFO - logging in using admin123,Admin
+2024-11-18 07:35:37,039 - test_logger - INFO - Entering username
+2024-11-18 07:35:37,118 - test_logger - INFO - Entering password
+2024-11-18 07:35:37,205 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:35:47,282 - test_logger - INFO - *******   Error message validated for in valid credentials ********
+2024-11-18 07:35:52,283 - test_logger - INFO - logging in using test_username,test_password
+2024-11-18 07:35:52,283 - test_logger - INFO - Entering username
+2024-11-18 07:35:52,359 - test_logger - INFO - Entering password
+2024-11-18 07:35:52,439 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:36:03,773 - test_logger - INFO - *******   Error message validated for in valid credentials ********
+2024-11-18 07:36:23,776 - test_logger - INFO - ----****---- Starting HomePage Title Test ----****----
+2024-11-18 07:36:23,777 - test_logger - INFO - Getting Homepage title
+2024-11-18 07:36:23,789 - test_logger - INFO - ----****---- HomePage Title Test Pass ----****----
+2024-11-18 07:36:23,790 - test_logger - INFO - ----****---- Starting broken link Test ----****----
+2024-11-18 07:37:19,557 - test_logger - ERROR - ----****---- Starting broken link Test Passed----****----
+2024-11-18 07:37:19,558 - test_logger - INFO - ----****---- Starting Login Test with invalid credentials ----****----
+2024-11-18 07:37:19,559 - test_logger - INFO - Entering username
+2024-11-18 07:37:19,616 - test_logger - INFO - Entering password
+2024-11-18 07:37:19,692 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:37:21,077 - test_logger - INFO - Getting invalid Credential message present in or not
+2024-11-18 07:37:21,608 - test_logger - INFO - ----****----  Invalid Login Test Passed----****----
+2024-11-18 07:37:21,610 - test_logger - INFO - ----****---- Starting Login Test ----****----
+2024-11-18 07:37:21,610 - test_logger - INFO - Entering username
+2024-11-18 07:37:21,658 - test_logger - INFO - Entering password
+2024-11-18 07:37:21,732 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:37:22,924 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:37:24,989 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:37:46,374 - test_logger - INFO - Logout Successfully
+2024-11-18 07:37:46,374 - test_logger - INFO - *******   login successful for valid credentials ********
+2024-11-18 07:37:46,375 - test_logger - INFO - ----****---- Starting Logout Test ----****----
+2024-11-18 07:37:46,375 - test_logger - INFO - Entering username
+2024-11-18 07:37:46,433 - test_logger - INFO - Entering password
+2024-11-18 07:37:46,530 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:37:46,575 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:37:48,618 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:38:09,966 - test_logger - INFO - Logout Successfully
+2024-11-18 07:38:09,966 - test_logger - INFO - ----****---- Logout Test passed----****----
+2024-11-18 07:38:09,968 - test_logger - INFO - *** loging in using fixture ***
+2024-11-18 07:38:09,968 - test_logger - INFO - logging in using Admin,admin123
+2024-11-18 07:38:09,968 - test_logger - INFO - Entering username
+2024-11-18 07:38:10,025 - test_logger - INFO - Entering password
+2024-11-18 07:38:10,090 - test_logger - INFO - Clicking on Login Button
+2024-11-18 07:38:11,205 - test_logger - INFO - login successfully
+2024-11-18 07:38:31,206 - test_logger - INFO -  clicking on PIM
+2024-11-18 07:38:42,138 - test_logger - INFO -  clicking on add employee
+2024-11-18 07:38:52,748 - test_logger - INFO -  entering first name
+2024-11-18 07:39:02,834 - test_logger - INFO -  entering middle name
+2024-11-18 07:39:12,924 - test_logger - INFO -  entering last name
+2024-11-18 07:39:23,005 - test_logger - INFO -  entering employee id
+2024-11-18 07:39:33,090 - test_logger - INFO -  all employee details entered
+2024-11-18 07:39:43,091 - test_logger - INFO -  clicking on save 
+2024-11-18 07:40:03,167 - test_logger - INFO -  fetch the added employee details
+2024-11-18 07:40:36,251 - test_logger - INFO -  clicking on search
+2024-11-18 07:40:36,320 - test_logger - INFO - checking for added Employee details
+2024-11-18 07:40:38,356 - test_logger - INFO - successfully got the added employee details
+2024-11-18 07:40:38,357 - test_logger - INFO - Clicking on down arrow Button
+2024-11-18 07:40:40,418 - test_logger - INFO - Clicking on Logout Button
+2024-11-18 07:41:01,832 - test_logger - INFO - Logout Successfully
